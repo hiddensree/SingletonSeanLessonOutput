@@ -1,0 +1,17 @@
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Entity.deps.json
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Entity.runtimeconfig.json
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Entity.dll
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Entity.pdb
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Domain.dll
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\bin\Debug\net7.0\NewBankAccount.Domain.pdb
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.csproj.AssemblyReference.cache
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.AssemblyInfoInputs.cache
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.AssemblyInfo.cs
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.csproj.CoreCompileInputs.cache
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.csproj.CopyComplete
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.dll
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\refint\NewBankAccount.Entity.dll
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.pdb
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\NewBankAccount.Entity.genruntimeconfig.cache
+C:\Users\sthankaraj\Desktop\Step1\NewBankAccount.Domain\NewBankAccount.Entity\obj\Debug\net7.0\ref\NewBankAccount.Entity.dll
